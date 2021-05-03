@@ -273,9 +273,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/stream.giroll.org:8000\/radio-hd.mp3"
+                 "value":"https:\/\/player.giroll.org\/"
                 }],
          "type":"tilelayer",
          "visible":true,

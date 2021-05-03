@@ -275,7 +275,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/player.giroll.org\/"
+                 "value":"http:\/\/www.giroll.org\/t-ecoute-radio-giroll.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,

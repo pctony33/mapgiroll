@@ -275,7 +275,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/stream.giroll.org:8000\/"
+                 "value":"http:\/\/stream.giroll.org:8000\/radio-hd.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,

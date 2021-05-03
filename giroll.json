@@ -273,7 +273,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"playAudio",
                  "type":"string",
                  "value":"http:\/\/www.giroll.org\/t-ecoute-radio-giroll.mp3"
                 }],

@@ -311,7 +311,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.giroll.org"
+                 "value":"https:\/\/www.giroll.org\/bienvenue-chez-giroll.html"
                 }],
          "type":"tilelayer",
          "visible":true,
